@@ -1,13 +1,5 @@
 # Blackjack Console Game
 
-[Blackjack Console Game]
-
-![image](https://github.com/ItsMeRozi/Python-Blackjack/assets/152630128/3d3cc818-82a5-4a58-861d-a8e9ba81dbd0)
-![image](https://github.com/ItsMeRozi/Python-Blackjack/assets/152630128/3a27ed1a-3b63-4ffe-985f-271c022bce11)
-![image](https://github.com/ItsMeRozi/Python-Blackjack/assets/152630128/9754bc52-5d8a-4711-9543-1cb7deb57c2f)
-
-
-
 ## Overview
 A console-based Blackjack card game implemented in Python for solo play or with up to 5 friends. Enjoy the classic casino game in a simple and text-based format.
 
